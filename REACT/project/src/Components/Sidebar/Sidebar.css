@@ -1,0 +1,26 @@
+.hr3{
+    content: "";
+    display: block;
+    height: 5px;
+    width: 250px;
+    background-color: grey;
+    margin-top: 67%;
+  }
+  
+  h6{
+    color: white;
+  }
+  .contact{
+    background-color: white;
+    width: 185px;
+    justify-content: center;
+    border-radius: 15px;
+    height: 30px;
+    border-style: solid;
+    border-color: rgb(101, 207, 226);
+  }
+  
+  .icon1{
+    color: rgb(17, 111, 155);
+    font-size: small;
+  }

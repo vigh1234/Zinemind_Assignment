@@ -1,0 +1,57 @@
+.list{
+    margin-left: 30px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    list-style: none;
+}
+.bi{
+    font-size: larger;
+    color: white;
+}
+.hr1{
+    content: "";
+    display: block;
+    height: 25px;
+    width: 1px;
+    margin-top: 5px;
+    background-color: rgb(96, 95, 95)
+}
+.btn{
+    width: 130px;
+    border-radius: 50px;
+    background-color: transparent;
+    border-width: 2px;
+    border-color: rgb(101, 207, 226);
+    color:  rgb(124, 209, 224);;
+    padding: 4px;
+    padding-top: 3px;
+}
+.btn:hover{
+  width: 130px;
+  border-radius: 50px;
+  background-color: transparent;
+  border-width: 2px;
+  border-color: rgb(101, 207, 226);
+  color:  rgb(124, 209, 224);;
+  padding: 4px;
+  padding-top: 3px;
+}
+.search{
+    margin-left: 655px;
+}
+::placeholder{
+    font-style: italic;
+}
+.searchbtn{
+    height: 30px;
+    padding-left: 20px;
+    outline: none;
+    border-radius: 6px;
+    border: none;
+    width: 230px;
+}
+.cloud{
+  font-size: large;
+  color: white;
+}

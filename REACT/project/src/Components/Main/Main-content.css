@@ -1,0 +1,217 @@
+.profiles{
+    margin-top: 22px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    list-style: none;
+  }
+  .icon2{
+    color: rgb(8, 83, 118);
+  }
+  .hr2{
+    content: "";
+    display: block;
+    margin-top: 5px;
+    height: 20px;
+    width: 2px;
+    background-color: rgb(154, 152, 152)
+  }
+  .Customer{
+    color: rgb(8, 83, 118);
+    font-weight: bold;
+  }
+  .hr4{
+    content: "";
+    display: block;
+    height: 2px;
+    width: 155% !important;
+    margin-top: 10px;
+    margin-left: 35px;
+    background-color: rgb(233, 231, 231);
+  }
+  .container1{
+    display: grid;
+    grid-template-columns: 75px 1fr;
+    width: 155% !important;
+    height: 83%;
+    margin-left: 35px;
+    margin-top: 10px;
+    border: solid 2px;
+    border-color: rgb(233, 231, 231);
+    border-radius: 8px;
+    background-color: rgb(233, 231, 231);
+  }
+  .sidebar2{
+    background-color: white;
+    border-radius: 5px 0px 0px 5px;
+  }
+  .main-content{
+    background-color: white;
+    margin-left: 2px;
+    border-radius: 0px 5px 5px 0px;
+  }
+  .icon3{
+    font-size: larger;
+    color: rgb(35, 121, 161);
+    font-weight: bold;
+  }
+  .hr5{
+    content: "";
+    display: block;
+    height: 2px;
+    width: 30px;
+    margin-left: 17px;
+    margin-top: 5px;
+    background-color:  rgb(233, 231, 231);
+  }
+  .icon4{
+    font-size: medium;
+    color: rgb(4, 65, 93);
+    font-weight: bold;
+  }
+  .search1{
+    font-weight: bolder;
+  }
+  .found-users{
+    font-size: small;
+    color: rgb(108, 107, 107);
+    margin-top: -8px;
+  }
+  .chat{
+    float: right;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    margin-top: -55px;
+  }
+  .chat-btn{
+    width: 85px;
+    border: solid 2px;
+    border-color: rgb(35, 121, 161);
+    border-radius: 15px;
+    background-color: transparent;
+    color:rgb(35, 121, 161);
+  }
+  .chat-option{
+    font-size: medium;
+    color: rgb(17, 111, 155);
+    font-weight: bold;
+  }
+  
+  .call-btn{
+    width: 85px;
+    border: solid 2px;
+    border-color: rgb(35, 121, 161);
+    border-radius: 15px;
+    background-color:rgb(35, 121, 161);
+    color: white;
+  }
+  .favourite{
+    font-size: x-large;
+    color: rgb(17, 111, 155);
+  }
+  .refresh{
+    font-size: x-large;
+    color: rgb(17, 111, 155);
+    cursor: pointer;
+  }
+  .hr6{
+    content: "";
+    display: block;
+    height: 28px;
+    width: 2px;
+    background-color:  rgb(233, 231, 231);
+  }
+  .search-user{
+    height: 26px;
+    border-radius: 6px;
+    border: solid 2px;
+    border-color: rgb(233, 231, 231);
+    padding-left: 10px;
+    padding-bottom: 7px;
+    margin-top: -25px;
+  }
+  ::placeholder{
+    font-size: small;
+  }
+  .user-search{
+    margin-top: -10px;
+  }
+  
+  table{
+    border-collapse: collapse;
+    width: 82% !important;
+    border-bottom: solid 2px;
+    border-color: rgb(233, 231, 231);
+    margin-left:20px;
+    padding: auto;
+  }
+  
+  th,td{
+    text-align: left;
+    padding: auto;
+    padding-top: 20px;
+  }
+  th{
+    font-size: small;
+    color: rgb(17, 111, 155);
+    border-bottom: solid 2px;
+    border-color: rgb(233, 231, 231);
+  }
+  td{
+    font-size: smaller;
+    font-weight: 400;
+    padding-bottom: 15px;
+  }
+  .fa-angles-left,.fa-angles-right{
+    font-size: small;
+  }
+  .prev-btn,.next-btn{
+    border: none;
+    background-color: transparent;
+  }
+  .prev-btn{
+    margin-left: 85%;
+  }
+  .fa-heart{
+    font-size: large;
+    color: rgb(17, 111, 155);
+  }
+  .search-btn{
+    width: 63px;
+    margin-left: 5px;
+    border-radius: 15px;
+    border: none;
+    background-color: rgb(17, 111, 155);
+    color: white;
+    padding-bottom: 5px;
+    height: 30px;
+  }
+  .p1{
+    font-size: small;
+    font-weight: bold;
+    padding: 5px;
+  }
+
+  /* user status */
+  .fa-circle-check{
+    color: rgb(8, 202, 8);
+  }
+  .fa-circle-minus{
+    color: red;
+  }
+  .fa-clock{
+    color: rgb(217, 183, 12);
+  }
+  .fa-circle-xmark{
+    color: grey;
+  }
+  .fa-circle{
+    color: rgb(210, 7, 7);
+  }
+
+  /* error message */
+  .errormsg{
+    font-size: small;
+    color: rgb(204, 7, 7);
+  }

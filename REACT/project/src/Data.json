@@ -1,0 +1,164 @@
+[
+    {
+        "id":"1",
+        "name":"Emily",
+        "status":"Available",
+        "phone":"(555) 123-4567",
+        "email":"emily@gmail.com",
+        "favourite":false
+    },
+    {
+        "id":"2",
+        "name":"Benjamin",
+        "status":"Available",
+        "phone":"(555) 123-4567",
+        "email":"benjamin@gmail.com",
+        "favourite":true
+    },
+    {
+        "id":"3",
+        "name":"Sophia",
+        "status":"Do not distrub",
+        "phone":"(555) 123-4567",
+        "email":"sophi@gmail.com",
+        "favourite":true
+    },
+    {
+        "id":"4",
+        "name":"Ava",
+        "status":"Be right back",
+        "phone":"(555) 123-4567",
+        "email":"ava@gmail.com",
+        "favourite":true
+    },
+    {
+        "id":"5",
+        "name":"Olivia",
+        "status":"Appear  Offline",
+        "phone":"(555) 123-4567",
+        "email":"olivia93@gmail.com",
+        "favourite":true
+    },
+    {
+        "id":"6",
+        "name":"Williams",
+        "status":"Be right back",
+        "phone":"(555) 123-4567",
+        "email":"williams@gmail.com",
+        "favourite":true
+    },
+    {
+        "id":"7",
+        "name":"Alexander",
+        "status":"Available",
+        "phone":"(555) 123-4567",
+        "email":"alexa@gmail.com",
+        "favourite":true
+    },
+    {
+        "id":"8",
+        "name":"James C",
+        "status":"Appear  Offline",
+        "phone":"(555) 123-4567",
+        "email":"james96@gmail.com",
+        "favourite":true
+    },
+    {
+        "id":"9",
+        "name":"Charlotte",
+        "status":"Available",
+        "phone":"(555) 123-4567",
+        "email":"Charlotte@gmail.com",
+        "favourite":true
+    },
+    {
+        "id":"10",
+        "name":"Michael",
+        "status":"Do not distrub",
+        "phone":"(555) 123-4567",
+        "email":"michael@gmail.com",
+        "favourite":true
+    },
+    {
+        "id":"11",
+        "name":"Emma",
+        "status":"Appear Away",
+        "phone":"(555) 123-4567",
+        "email":"emma@gmail.com",
+        "favourite":true
+    },
+    {
+        "id":"12",
+        "name":"Ethan",
+        "status":"Appear  Offline",
+        "phone":"(555) 123-4567",
+        "email":"ethan@gmail.com",
+        "favourite":true
+    },
+    {
+        "id":"13",
+        "name":"Vighnesh",
+        "status":"Available",
+        "phone":"(555) 123-4567",
+        "email":"Vighnesh@gmail.com",
+        "favourite":true
+    },
+    {
+        "id":"14",
+        "name":"Arun k",
+        "status":"Do not distrub",
+        "phone":"(555) 123-4567",
+        "email":"arun@gmail.com",
+        "favourite":true
+    },
+    {
+        "id":"15",
+        "name":"john doe",
+        "status":"Available",
+        "phone":"(555) 123-4567",
+        "email":"john@gmail.com",
+        "favourite":true
+    },
+    {
+        "id":"16",
+        "name":"Syam",
+        "status":"Busy",
+        "phone":"(555) 123-4567",
+        "email":"Syam@gmail.com",
+        "favourite":true
+    },
+    {
+        "id":"17",
+        "name":"Anandhu S",
+        "status":"Be right back",
+        "phone":"(555) 123-4567",
+        "email":"anandhu@gmail.com",
+        "favourite":true
+    },
+    {
+        "id":"18",
+        "name":"Vivek K D",
+        "status":"Available",
+        "phone":"(555) 123-4567",
+        "email":"vikek777@gmail.com",
+        "favourite":true
+    },
+    {
+        "id":"19",
+        "name":"Xavier",
+        "status":"Available",
+        "phone":"(555) 123-4567",
+        "email":"xavier11@gmail.com",
+        "favourite":true
+    },
+    {
+        "id":"20",
+        "name":"john Ricks",
+        "status":"Appear Away",
+        "phone":"(555) 123-4567",
+        "email":"johnric8@gmail.com",
+        "favourite":true
+    }
+
+
+]
